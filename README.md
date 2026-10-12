@@ -1,3 +1,6 @@
-A game demo code by qt
+# CoinFlip   
+A game code by qt   
 
-实现游戏同时加入短动画特效和音频
+描述：    
+小游戏，主要是通过qt实现操作互动，同时，实现游戏同时加入短动画特效和音频   
+  
